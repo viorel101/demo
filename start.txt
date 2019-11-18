@@ -1,1 +1,1 @@
-Test git Quiq start demo!
+Test GIT with a Quiq Start Demo!
