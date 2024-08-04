@@ -12,6 +12,6 @@ spec:
     targetPort: 8080
   to:
     kind: Service
-    name: firstapp-firstapp
+    name: svc-firstapp
     weight: 100
 status: {}
