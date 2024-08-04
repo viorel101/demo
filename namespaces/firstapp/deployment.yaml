@@ -10,13 +10,13 @@ spec:
   replicas: 1
   selector:
     matchLabels:
-      app: bgd
+      app: firstapp
   strategy: {}
   template:
     metadata:
       creationTimestamp: null
       labels:
-        app: bgd
+        app: firstapp
     spec:
       containers:
       - image: quay.io/redhatworkshops/bgd:latest
