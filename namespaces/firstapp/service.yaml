@@ -5,7 +5,7 @@ metadata:
   creationTimestamp: null
   labels:
     app: firstapp
-  name: firstapp
+  name: svc-firstapp
   namespace: firstapp
 spec:
   ports:
