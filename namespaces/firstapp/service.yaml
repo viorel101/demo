@@ -6,7 +6,6 @@ metadata:
   labels:
     app: firstapp
   name: firstapp
-  namespace: firstapp
 spec:
   ports:
   - port: 8080
